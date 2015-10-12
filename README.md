@@ -18,9 +18,9 @@ expected that minimum 0.13.6 would be needed.
 
 3) Start SBT in the repository root directory
 
-4) Compile
+4) ``compile``
 
-5) Run with the command line parameters below.
+5) ``run`` with the command line parameters below.
 
 ## Instructions for use
 
