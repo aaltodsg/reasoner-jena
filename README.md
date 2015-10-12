@@ -14,7 +14,13 @@ Has been developed as an [SBT](http://www.scala-sbt.org/) project under [IDEA](h
 the developer. Due to some changes in Java parameter passing it is
 expected that minimum 0.13.6 would be needed.
 
-2) Clone this repository: `$ git clone https://github.com/aaltodsg/xevepro.git`
+2) Clone this repository.
+
+3) Start SBT in the repository root directory
+
+4) Compile
+
+5) Run with the command line parameters below.
 
 ## Instructions for use
 
